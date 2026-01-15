@@ -1,0 +1,6 @@
+{
+  "Group": "${group}",
+  "Name": "${name}",
+  "Version": "${version}",
+  "Main": "com.allay.hytale.Hytale"
+}
