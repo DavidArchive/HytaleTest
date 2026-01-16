@@ -10,6 +10,9 @@ repositories {
 }
 
 dependencies {
+    compileOnly("org.projectlombok:lombok:1.18.42")
+    annotationProcessor("org.projectlombok:lombok:1.18.42")
+
     compileOnly(files("libs/HytaleServer.jar"))
 }
 
